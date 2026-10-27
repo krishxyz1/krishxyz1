@@ -8,7 +8,14 @@ Super Trading App · B.E. Computer Science, Chitkara University '27 · India
 
 ### At SuperInvesting (since July 2026)
 
-[SuperInvesting](https://superinvesting.ai) is an AI equity research platform for Indian investors, now used by **15,000+ users**. It covers AI chat on any listed stock, curated Stacks and Baskets, portfolio analysis and a live market news feed. I work across all of it, from the data behind weekly product decisions to the AI tooling that runs content and news.
+[SuperInvesting](https://superinvesting.ai) is an AI equity research platform for Indian investors, now used by **15,000+ users**, **12.8K** of them paid. It covers AI chat on any listed stock, curated Stacks and Baskets, portfolio analysis and a live market news feed. I work across all of it, from the data behind weekly product decisions to the AI tooling that runs content and news.
+
+| Product metric | Jun 2026 | Now |
+|---|---|---|
+| Paid users | 5.4K | 12.8K |
+| Weekly active users | 2.1K | 6.4K |
+| Monthly active users | 4.2K | 11.8K |
+| AI chat questions per month | 29K | 90K |
 
 - 📊 **Pulled product data myself in SQL** (ClickHouse, PostgreSQL) for weekly product meetings: DAU/WAU/MAU, a 6-step funnel from sign-up to portfolio, month-on-month retention and feature adoption. De-duplicated users on phone number and built the Metabase dashboards.
 - 🎬 **Built an AI content pipeline** that has published 500+ investing shorts with no manual editing, several running at once.
