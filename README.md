@@ -31,6 +31,7 @@ Super Trading App · B.E. Computer Science, Chitkara University '27 · India
 - 🔁 Only **49%** of grocery shoppers who place a 4th order reach an 11th, and a mostly-fresh first basket means **1.8×** better retention at month 11.
 
 **Product:** problem framing · metric trees · PRDs · A/B test design · support-ticket and review synthesis · funnels and retention · RICE
+
 **Technical:** SQL (ClickHouse, PostgreSQL, DuckDB) · Metabase · React · Next.js · TypeScript · Gemini and Claude APIs · n8n
 
 **Leadership:** Executive Committee Member, ACM Chitkara · Finalist, ACM Intra-Society Hackathon
