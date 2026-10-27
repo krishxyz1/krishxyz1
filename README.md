@@ -2,15 +2,13 @@
 
 **Product Manager Intern · SuperInvesting**
 
-I find problems in product data and in what customers actually say, then ship the fix. SQL tells me where users drop off, support tickets and reviews tell me why, and AI tools let me build the fix myself.
+I find problems in product data and in what customers actually say, then ship the fix. SQL tells me where users drop off, customer feedback tells me why, and AI tools let me build the fix myself.
 
 Super Trading App · B.E. Computer Science, Chitkara University '27 · India
 
 ### At SuperInvesting (since July 2026)
 
 - 📊 **Pulled product data myself in SQL** (ClickHouse, PostgreSQL) for weekly product meetings: DAU/WAU/MAU, a 6-step funnel from sign-up to portfolio, month-on-month retention and feature adoption. De-duplicated users on phone number and built the Metabase dashboards.
-- 🎧 **Resolved 1,800+ support tickets and worked directly with 300+ users** in 3 weeks on the support desk. Their recurring problems set the priorities for the help-centre rebuild and the video guides.
-- 💬 **Helped rebuild customer support**: a self-serve help centre, topic-tagged tickets, screenshot uploads, two-way threads and AI ticket analysis, measured on deflection, reopen rate and time to first reply.
 - 🎬 **Built an AI content pipeline** that has published 500+ investing shorts with no manual editing, several running at once.
 - 🧭 **Designed the risk-assessment questionnaire** for the new Portfolio section, which turns each user's holdings into next steps.
 - 🛠️ **Built a standalone admin console** that restored the Stacks and support-ticket workflows broken in the main admin.
@@ -30,7 +28,7 @@ Super Trading App · B.E. Computer Science, Chitkara University '27 · India
 - 🚪 Complaints about refunds and missing items mention leaving **2× as often** as complaints about price.
 - 🔁 Only **49%** of grocery shoppers who place a 4th order reach an 11th, and a mostly-fresh first basket means **1.8×** better retention at month 11.
 
-**Product:** problem framing · metric trees · PRDs · A/B test design · support-ticket and review synthesis · funnels and retention · RICE
+**Product:** problem framing · metric trees · PRDs · A/B test design · customer feedback synthesis · funnels and retention · RICE
 
 **Technical:** SQL (ClickHouse, PostgreSQL, DuckDB) · Metabase · React · Next.js · TypeScript · Gemini and Claude APIs · n8n
 
