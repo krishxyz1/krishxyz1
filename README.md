@@ -11,7 +11,7 @@ Super Trading App · B.E. Computer Science, Chitkara University '27 · India
 - 📊 **Pulled product data myself in SQL** (ClickHouse, PostgreSQL) for weekly product meetings: DAU/WAU/MAU, a 6-step funnel from sign-up to portfolio, month-on-month retention and feature adoption. De-duplicated users on phone number and built the Metabase dashboards.
 - 🎬 **Built an AI content pipeline** that has published 500+ investing shorts with no manual editing, several running at once.
 - 🧭 **Designed the risk-assessment questionnaire** for the new Portfolio section, which turns each user's holdings into next steps.
-- 🛠️ **Built a standalone admin console** that restored the Stacks and support-ticket workflows broken in the main admin.
+- 🛠️ **Built a standalone admin console** that restored the Stacks workflows broken in the main admin, with queues, search, filters and CSV export.
 - 📰 **Built n8n workflows** that pull news from The Economic Times, MoneyControl, Livemint, NSE and BSE into the in-app news feed.
 
 ### Things I've built
